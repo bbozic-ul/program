@@ -1,1 +1,1 @@
-The programes Ionicsolution.e and Sucrosesolution.e are written for linux operating sistems.
+The programes Ionicsolution.e and Sucrosesolution.e are written in Free Pascal for Linux operating sistems. For further details see Cell volume changes and membrane ruptures induced by hypotonic electrolyte and sugar solutions by B. Božič, Š. Zemljič Jokhadar, L. Kristanc and G. Gomišček (Institute of Biophysics, Faculty of Medicine and Faculty of Health Sciences, University of Ljubljana, Ljubljana, Slovenia).
