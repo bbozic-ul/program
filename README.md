@@ -1,1 +1,1 @@
-Comments
+For linux operating sistems.
